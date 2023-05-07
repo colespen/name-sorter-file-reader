@@ -3,7 +3,7 @@
 ## Reads a file and sorts a list of names by last name
 <br>
 
-### run this in root directory:
+### please run this in the root directory to log name to console:
  ```
  node name-sorter.js <./filename_path>
  ```
